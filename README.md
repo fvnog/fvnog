@@ -1,16 +1,22 @@
-## Hi there 👋
+### Experiência de trabalho
 
-<!--
-**fvnog/fvnog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-Here are some ideas to get you started:
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nexmarketing.com.br/img/nex2.fw.png"/>](https://nexmarketing.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack - PHP and Laravel** \
+[**Nex Marketing Digital**](https://nexmarketing.com.br/) • Full-time \
+Linguagens & Tecnologias: `Laravel`, `PHP`, `MySql`, `JavaScript`, `API`\
+Projetos em destaque: [Nex Marketing Digital](https://nexmarketing.com.br/), [Swat Alfa - Habbo Hotel](https://swatalfa.com.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://resultarmind.com.br/img/logo.png"/>](https://resultarmind.com.br/)
+
+**Full Stack - PHP and Laravel** \
+[**ResultarMind**](https://resultarmind.com.br/) • Full-time \
+Linguagens & Tecnologias: `Laravel`, `PHP`, `MySql`, `JavaScript`, `API`\
+Projetos em destaque: [BiFashion](https://bifashion.com.br/), [Pronto Pra Pedir](https://prontoprapedir.com.br/)
+<br/>
+
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/fernando-nogueira-developer/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
