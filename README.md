@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-banner.png" width="100%" />
-</p>
-
 <h1 align="center">Fernando Nogueira</h1>
 
 <p align="center">
