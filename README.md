@@ -32,6 +32,8 @@ Construo aplicações com **PHP/Laravel**, conectando dados, integrações e aut
 | **[Vitória ↗](https://fvnog.github.io/#vitoria)** | ERP que conecta vendas, fabricação, estoque, financeiro e logística. Boletos e conciliação Sicoob, NF-e, documentos e pedidos por WhatsApp com WAHA. |
 | **[AVN Sistemas ↗](https://fvnog.github.io/#avn)** | Sites e aplicações em Laravel, interfaces, SEO técnico e infraestrutura de publicação. Projetos em subdomínios com releases e armazenamento persistente por aplicação. |
 
+Os links acima levam aos estudos de caso no portfólio. Os repositórios dos sistemas permanecem privados.
+
 <details>
 <summary><strong>Ver tecnologias e integrações por projeto</strong></summary>
 
